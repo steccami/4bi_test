@@ -2,3 +2,4 @@ main()
 belle cose
 fwegwe
 wegweg
+Classe1.ciao();
