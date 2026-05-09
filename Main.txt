@@ -3,3 +3,4 @@ belle cose
 fwegwe
 wegweg
 Classe1.ciao();
+Classe2.ciao()
